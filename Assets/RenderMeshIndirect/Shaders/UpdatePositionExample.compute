@@ -1,0 +1,41 @@
+#pragma kernel UpdatePositions
+
+
+struct SpheraData
+{
+    float4x4 objectToWorld;
+    float4x4 worldToObject;
+    float4 color;
+};
+
+uniform RWStructuredBuffer<float4x4> _RtxMatrices;
+uniform RWStructuredBuffer<SpheraData> _SphereData;
+uniform int _Count;
+static const float PI = 3.14159265f;
+uniform float3 _Time;
+
+[numthreads(256,1,1)]
+void UpdatePositions(uint3 id : SV_DispatchThreadID)
+{
+    const uint index = id.x;
+    if (index >= _Count)return;
+
+    //Kinda just a reverse mapping of RtxRenderMeshInstancedIndirect.GenerateInstanceMatrices
+    uint x = index / (32 * 32);
+    uint y = index / 32 % 32; 
+    uint z = index % 32;
+
+    const float angle =  sin(_Time.z+y+z+x)*1 * pow(x * 0.004f, 2) + 2 * PI * z / 31.0;
+    const float radius = sin(_Time.y)*3+ 5.0f + x * (1 + pow(y * 0.02f, 1.6f));
+    float3 newPos;
+    newPos.x = radius * cos(angle);
+    newPos.y = y;
+    newPos.z = radius * sin(angle);
+    float4x4 existingMatrix = _RtxMatrices[index];
+
+    existingMatrix[0].w = newPos.x;
+    existingMatrix[1].w = newPos.y;
+    existingMatrix[2].w = newPos.z;
+    _RtxMatrices[index] = existingMatrix;
+    _SphereData[index].objectToWorld = existingMatrix;
+}

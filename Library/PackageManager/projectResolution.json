@@ -1,0 +1,429 @@
+{
+  "context": {
+    "projectPath": "C:/Users/danie/Documents/UnityWorkspace/RTXInstancing/Packages",
+    "unityVersion": "6000.1.0a4"
+  },
+  "inputs": [
+    "C:\\Users\\danie\\Documents\\UnityWorkspace\\RTXInstancing\\Packages\\manifest.json",
+    "C:\\Users\\danie\\Documents\\UnityWorkspace\\RTXInstancing\\Packages\\packages-lock.json"
+  ],
+  "outputs": {
+    "com.unity.collab-proxy@2.5.2": {
+      "name": "com.unity.collab-proxy",
+      "resolvedPath": "C:\\Users\\danie\\Documents\\UnityWorkspace\\RTXInstancing\\Library\\PackageCache\\com.unity.collab-proxy",
+      "fingerprint": "da7e55b87e08569f31766e7cabc37bc033c9c7f9",
+      "editorCompatibility": "2020.3.48f1",
+      "version": "2.5.2",
+      "source": "registry"
+    },
+    "com.unity.feature.development@1.0.2": {
+      "name": "com.unity.feature.development",
+      "resolvedPath": "C:\\Users\\danie\\Documents\\UnityWorkspace\\RTXInstancing\\Library\\PackageCache\\com.unity.feature.development",
+      "fingerprint": "c770b6a36a30949b030c5ec02d835f771b975cbb",
+      "version": "1.0.2",
+      "source": "builtin"
+    },
+    "com.unity.multiplayer.center@1.0.0": {
+      "name": "com.unity.multiplayer.center",
+      "resolvedPath": "C:\\Users\\danie\\Documents\\UnityWorkspace\\RTXInstancing\\Library\\PackageCache\\com.unity.multiplayer.center",
+      "fingerprint": "f502d8ac613fa076192423e73892fbd89eb4049b",
+      "editorCompatibility": "6000.0.0a1",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.render-pipelines.high-definition@17.0.3": {
+      "name": "com.unity.render-pipelines.high-definition",
+      "resolvedPath": "C:\\Users\\danie\\Documents\\UnityWorkspace\\RTXInstancing\\Library\\PackageCache\\com.unity.render-pipelines.high-definition",
+      "fingerprint": "eaaace19721894ac27fe277f834434c095104567",
+      "editorCompatibility": "6000.0.0a1",
+      "version": "17.0.3",
+      "source": "builtin"
+    },
+    "com.unity.timeline@1.8.7": {
+      "name": "com.unity.timeline",
+      "resolvedPath": "C:\\Users\\danie\\Documents\\UnityWorkspace\\RTXInstancing\\Library\\PackageCache\\com.unity.timeline",
+      "fingerprint": "c58b4ee65782ad38338e29f7ee67787cb6998f04",
+      "editorCompatibility": "2019.3.0a1",
+      "version": "1.8.7",
+      "source": "registry"
+    },
+    "com.unity.ugui@2.0.0": {
+      "name": "com.unity.ugui",
+      "resolvedPath": "C:\\Users\\danie\\Documents\\UnityWorkspace\\RTXInstancing\\Library\\PackageCache\\com.unity.ugui",
+      "fingerprint": "597d3a254300bc72fa395fd677d4819032547414",
+      "editorCompatibility": "2019.2.0a1",
+      "version": "2.0.0",
+      "source": "builtin"
+    },
+    "com.unity.visualscripting@1.9.4": {
+      "name": "com.unity.visualscripting",
+      "resolvedPath": "C:\\Users\\danie\\Documents\\UnityWorkspace\\RTXInstancing\\Library\\PackageCache\\com.unity.visualscripting",
+      "fingerprint": "0920df93f9574f857a55af27bd38fdd9230a3f51",
+      "editorCompatibility": "2021.3.0a1",
+      "version": "1.9.4",
+      "source": "registry"
+    },
+    "com.unity.modules.accessibility@1.0.0": {
+      "name": "com.unity.modules.accessibility",
+      "resolvedPath": "C:\\Users\\danie\\Documents\\UnityWorkspace\\RTXInstancing\\Library\\PackageCache\\com.unity.modules.accessibility",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.ai@1.0.0": {
+      "name": "com.unity.modules.ai",
+      "resolvedPath": "C:\\Users\\danie\\Documents\\UnityWorkspace\\RTXInstancing\\Library\\PackageCache\\com.unity.modules.ai",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.androidjni@1.0.0": {
+      "name": "com.unity.modules.androidjni",
+      "resolvedPath": "C:\\Users\\danie\\Documents\\UnityWorkspace\\RTXInstancing\\Library\\PackageCache\\com.unity.modules.androidjni",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.animation@1.0.0": {
+      "name": "com.unity.modules.animation",
+      "resolvedPath": "C:\\Users\\danie\\Documents\\UnityWorkspace\\RTXInstancing\\Library\\PackageCache\\com.unity.modules.animation",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.assetbundle@1.0.0": {
+      "name": "com.unity.modules.assetbundle",
+      "resolvedPath": "C:\\Users\\danie\\Documents\\UnityWorkspace\\RTXInstancing\\Library\\PackageCache\\com.unity.modules.assetbundle",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.audio@1.0.0": {
+      "name": "com.unity.modules.audio",
+      "resolvedPath": "C:\\Users\\danie\\Documents\\UnityWorkspace\\RTXInstancing\\Library\\PackageCache\\com.unity.modules.audio",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.cloth@1.0.0": {
+      "name": "com.unity.modules.cloth",
+      "resolvedPath": "C:\\Users\\danie\\Documents\\UnityWorkspace\\RTXInstancing\\Library\\PackageCache\\com.unity.modules.cloth",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.director@1.0.0": {
+      "name": "com.unity.modules.director",
+      "resolvedPath": "C:\\Users\\danie\\Documents\\UnityWorkspace\\RTXInstancing\\Library\\PackageCache\\com.unity.modules.director",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.imageconversion@1.0.0": {
+      "name": "com.unity.modules.imageconversion",
+      "resolvedPath": "C:\\Users\\danie\\Documents\\UnityWorkspace\\RTXInstancing\\Library\\PackageCache\\com.unity.modules.imageconversion",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.imgui@1.0.0": {
+      "name": "com.unity.modules.imgui",
+      "resolvedPath": "C:\\Users\\danie\\Documents\\UnityWorkspace\\RTXInstancing\\Library\\PackageCache\\com.unity.modules.imgui",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.jsonserialize@1.0.0": {
+      "name": "com.unity.modules.jsonserialize",
+      "resolvedPath": "C:\\Users\\danie\\Documents\\UnityWorkspace\\RTXInstancing\\Library\\PackageCache\\com.unity.modules.jsonserialize",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.nvidia@1.0.0": {
+      "name": "com.unity.modules.nvidia",
+      "resolvedPath": "C:\\Users\\danie\\Documents\\UnityWorkspace\\RTXInstancing\\Library\\PackageCache\\com.unity.modules.nvidia",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.particlesystem@1.0.0": {
+      "name": "com.unity.modules.particlesystem",
+      "resolvedPath": "C:\\Users\\danie\\Documents\\UnityWorkspace\\RTXInstancing\\Library\\PackageCache\\com.unity.modules.particlesystem",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.physics@1.0.0": {
+      "name": "com.unity.modules.physics",
+      "resolvedPath": "C:\\Users\\danie\\Documents\\UnityWorkspace\\RTXInstancing\\Library\\PackageCache\\com.unity.modules.physics",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.physics2d@1.0.0": {
+      "name": "com.unity.modules.physics2d",
+      "resolvedPath": "C:\\Users\\danie\\Documents\\UnityWorkspace\\RTXInstancing\\Library\\PackageCache\\com.unity.modules.physics2d",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.screencapture@1.0.0": {
+      "name": "com.unity.modules.screencapture",
+      "resolvedPath": "C:\\Users\\danie\\Documents\\UnityWorkspace\\RTXInstancing\\Library\\PackageCache\\com.unity.modules.screencapture",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.terrain@1.0.0": {
+      "name": "com.unity.modules.terrain",
+      "resolvedPath": "C:\\Users\\danie\\Documents\\UnityWorkspace\\RTXInstancing\\Library\\PackageCache\\com.unity.modules.terrain",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.terrainphysics@1.0.0": {
+      "name": "com.unity.modules.terrainphysics",
+      "resolvedPath": "C:\\Users\\danie\\Documents\\UnityWorkspace\\RTXInstancing\\Library\\PackageCache\\com.unity.modules.terrainphysics",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.tilemap@1.0.0": {
+      "name": "com.unity.modules.tilemap",
+      "resolvedPath": "C:\\Users\\danie\\Documents\\UnityWorkspace\\RTXInstancing\\Library\\PackageCache\\com.unity.modules.tilemap",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.ui@1.0.0": {
+      "name": "com.unity.modules.ui",
+      "resolvedPath": "C:\\Users\\danie\\Documents\\UnityWorkspace\\RTXInstancing\\Library\\PackageCache\\com.unity.modules.ui",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.uielements@1.0.0": {
+      "name": "com.unity.modules.uielements",
+      "resolvedPath": "C:\\Users\\danie\\Documents\\UnityWorkspace\\RTXInstancing\\Library\\PackageCache\\com.unity.modules.uielements",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.umbra@1.0.0": {
+      "name": "com.unity.modules.umbra",
+      "resolvedPath": "C:\\Users\\danie\\Documents\\UnityWorkspace\\RTXInstancing\\Library\\PackageCache\\com.unity.modules.umbra",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.unityanalytics@1.0.0": {
+      "name": "com.unity.modules.unityanalytics",
+      "resolvedPath": "C:\\Users\\danie\\Documents\\UnityWorkspace\\RTXInstancing\\Library\\PackageCache\\com.unity.modules.unityanalytics",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.unitywebrequest@1.0.0": {
+      "name": "com.unity.modules.unitywebrequest",
+      "resolvedPath": "C:\\Users\\danie\\Documents\\UnityWorkspace\\RTXInstancing\\Library\\PackageCache\\com.unity.modules.unitywebrequest",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.unitywebrequestassetbundle@1.0.0": {
+      "name": "com.unity.modules.unitywebrequestassetbundle",
+      "resolvedPath": "C:\\Users\\danie\\Documents\\UnityWorkspace\\RTXInstancing\\Library\\PackageCache\\com.unity.modules.unitywebrequestassetbundle",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.unitywebrequestaudio@1.0.0": {
+      "name": "com.unity.modules.unitywebrequestaudio",
+      "resolvedPath": "C:\\Users\\danie\\Documents\\UnityWorkspace\\RTXInstancing\\Library\\PackageCache\\com.unity.modules.unitywebrequestaudio",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.unitywebrequesttexture@1.0.0": {
+      "name": "com.unity.modules.unitywebrequesttexture",
+      "resolvedPath": "C:\\Users\\danie\\Documents\\UnityWorkspace\\RTXInstancing\\Library\\PackageCache\\com.unity.modules.unitywebrequesttexture",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.unitywebrequestwww@1.0.0": {
+      "name": "com.unity.modules.unitywebrequestwww",
+      "resolvedPath": "C:\\Users\\danie\\Documents\\UnityWorkspace\\RTXInstancing\\Library\\PackageCache\\com.unity.modules.unitywebrequestwww",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.vehicles@1.0.0": {
+      "name": "com.unity.modules.vehicles",
+      "resolvedPath": "C:\\Users\\danie\\Documents\\UnityWorkspace\\RTXInstancing\\Library\\PackageCache\\com.unity.modules.vehicles",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.video@1.0.0": {
+      "name": "com.unity.modules.video",
+      "resolvedPath": "C:\\Users\\danie\\Documents\\UnityWorkspace\\RTXInstancing\\Library\\PackageCache\\com.unity.modules.video",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.vr@1.0.0": {
+      "name": "com.unity.modules.vr",
+      "resolvedPath": "C:\\Users\\danie\\Documents\\UnityWorkspace\\RTXInstancing\\Library\\PackageCache\\com.unity.modules.vr",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.wind@1.0.0": {
+      "name": "com.unity.modules.wind",
+      "resolvedPath": "C:\\Users\\danie\\Documents\\UnityWorkspace\\RTXInstancing\\Library\\PackageCache\\com.unity.modules.wind",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.xr@1.0.0": {
+      "name": "com.unity.modules.xr",
+      "resolvedPath": "C:\\Users\\danie\\Documents\\UnityWorkspace\\RTXInstancing\\Library\\PackageCache\\com.unity.modules.xr",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.subsystems@1.0.0": {
+      "name": "com.unity.modules.subsystems",
+      "resolvedPath": "C:\\Users\\danie\\Documents\\UnityWorkspace\\RTXInstancing\\Library\\PackageCache\\com.unity.modules.subsystems",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.hierarchycore@1.0.0": {
+      "name": "com.unity.modules.hierarchycore",
+      "resolvedPath": "C:\\Users\\danie\\Documents\\UnityWorkspace\\RTXInstancing\\Library\\PackageCache\\com.unity.modules.hierarchycore",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.render-pipelines.core@17.0.3": {
+      "name": "com.unity.render-pipelines.core",
+      "resolvedPath": "C:\\Users\\danie\\Documents\\UnityWorkspace\\RTXInstancing\\Library\\PackageCache\\com.unity.render-pipelines.core",
+      "fingerprint": "eee44c86839c7f07e7d4d6d2a195f5759472ada8",
+      "editorCompatibility": "6000.0.0a1",
+      "version": "17.0.3",
+      "source": "builtin"
+    },
+    "com.unity.shadergraph@17.0.3": {
+      "name": "com.unity.shadergraph",
+      "resolvedPath": "C:\\Users\\danie\\Documents\\UnityWorkspace\\RTXInstancing\\Library\\PackageCache\\com.unity.shadergraph",
+      "fingerprint": "bcde937d7b44903e77e3b54856d0e69b64010cda",
+      "editorCompatibility": "6000.0.0a1",
+      "version": "17.0.3",
+      "source": "builtin"
+    },
+    "com.unity.visualeffectgraph@17.0.3": {
+      "name": "com.unity.visualeffectgraph",
+      "resolvedPath": "C:\\Users\\danie\\Documents\\UnityWorkspace\\RTXInstancing\\Library\\PackageCache\\com.unity.visualeffectgraph",
+      "fingerprint": "36e2154e9c4b36f060a0e5307299df12a16c5c5b",
+      "editorCompatibility": "6000.0.0a1",
+      "version": "17.0.3",
+      "source": "builtin"
+    },
+    "com.unity.render-pipelines.high-definition-config@17.0.3": {
+      "name": "com.unity.render-pipelines.high-definition-config",
+      "resolvedPath": "C:\\Users\\danie\\Documents\\UnityWorkspace\\RTXInstancing\\Library\\PackageCache\\com.unity.render-pipelines.high-definition-config",
+      "fingerprint": "d45858853e614916d0e96df55a30b8c69d642992",
+      "editorCompatibility": "6000.0.0a1",
+      "version": "17.0.3",
+      "source": "builtin"
+    },
+    "com.unity.ide.visualstudio@2.0.22": {
+      "name": "com.unity.ide.visualstudio",
+      "resolvedPath": "C:\\Users\\danie\\Documents\\UnityWorkspace\\RTXInstancing\\Library\\PackageCache\\com.unity.ide.visualstudio",
+      "fingerprint": "8140e851d83e922ca2021b04a89519de94ebe38c",
+      "editorCompatibility": "2019.4.25f1",
+      "version": "2.0.22",
+      "source": "registry"
+    },
+    "com.unity.ide.rider@3.0.34": {
+      "name": "com.unity.ide.rider",
+      "resolvedPath": "C:\\Users\\danie\\Documents\\UnityWorkspace\\RTXInstancing\\Library\\PackageCache\\com.unity.ide.rider",
+      "fingerprint": "ecbf706690e5ce42dc165ddd8e5754acda3dc6b9",
+      "editorCompatibility": "2019.4.6f1",
+      "version": "3.0.34",
+      "source": "registry"
+    },
+    "com.unity.editorcoroutines@1.0.0": {
+      "name": "com.unity.editorcoroutines",
+      "resolvedPath": "C:\\Users\\danie\\Documents\\UnityWorkspace\\RTXInstancing\\Library\\PackageCache\\com.unity.editorcoroutines",
+      "fingerprint": "7d48783e7b8cfcee5f8ef9ba787ed0d9dad4ebca",
+      "editorCompatibility": "2018.1.0a1",
+      "version": "1.0.0",
+      "source": "registry"
+    },
+    "com.unity.performance.profile-analyzer@1.2.2": {
+      "name": "com.unity.performance.profile-analyzer",
+      "resolvedPath": "C:\\Users\\danie\\Documents\\UnityWorkspace\\RTXInstancing\\Library\\PackageCache\\com.unity.performance.profile-analyzer",
+      "fingerprint": "fe7acfd2717a98ded6ddc33be6b2ebe4459a2add",
+      "editorCompatibility": "2020.3.0a1",
+      "version": "1.2.2",
+      "source": "registry"
+    },
+    "com.unity.test-framework@1.4.5": {
+      "name": "com.unity.test-framework",
+      "resolvedPath": "C:\\Users\\danie\\Documents\\UnityWorkspace\\RTXInstancing\\Library\\PackageCache\\com.unity.test-framework",
+      "fingerprint": "0a21eb82d95cd331643a1e0ce4e8e9a5f18954c8",
+      "editorCompatibility": "2019.4.0a10",
+      "version": "1.4.5",
+      "source": "registry"
+    },
+    "com.unity.testtools.codecoverage@1.2.6": {
+      "name": "com.unity.testtools.codecoverage",
+      "resolvedPath": "C:\\Users\\danie\\Documents\\UnityWorkspace\\RTXInstancing\\Library\\PackageCache\\com.unity.testtools.codecoverage",
+      "fingerprint": "205a02cbcb39584f20b51c49b853047aceb3a3a7",
+      "editorCompatibility": "2019.3.0a1",
+      "version": "1.2.6",
+      "source": "registry"
+    },
+    "com.unity.searcher@4.9.2": {
+      "name": "com.unity.searcher",
+      "resolvedPath": "C:\\Users\\danie\\Documents\\UnityWorkspace\\RTXInstancing\\Library\\PackageCache\\com.unity.searcher",
+      "fingerprint": "90d011a70418fd5b0f4b8e86df39444d2af228dd",
+      "editorCompatibility": "2019.1.0a1",
+      "version": "4.9.2",
+      "source": "registry"
+    },
+    "com.unity.burst@1.8.18": {
+      "name": "com.unity.burst",
+      "resolvedPath": "C:\\Users\\danie\\Documents\\UnityWorkspace\\RTXInstancing\\Library\\PackageCache\\com.unity.burst",
+      "fingerprint": "616862665d8c8ffe643d505aebb5de2ee73b0ab0",
+      "editorCompatibility": "2020.3.0a1",
+      "version": "1.8.18",
+      "source": "registry"
+    },
+    "com.unity.mathematics@1.3.2": {
+      "name": "com.unity.mathematics",
+      "resolvedPath": "C:\\Users\\danie\\Documents\\UnityWorkspace\\RTXInstancing\\Library\\PackageCache\\com.unity.mathematics",
+      "fingerprint": "8017b507cc74bf0a1dd14b18aa860569f807314d",
+      "editorCompatibility": "2021.3.0a1",
+      "version": "1.3.2",
+      "source": "registry"
+    },
+    "com.unity.collections@2.5.1": {
+      "name": "com.unity.collections",
+      "resolvedPath": "C:\\Users\\danie\\Documents\\UnityWorkspace\\RTXInstancing\\Library\\PackageCache\\com.unity.collections",
+      "fingerprint": "56bff8827a7ef6d44fcee4f36e558a74da89c1a0",
+      "editorCompatibility": "2022.3.11f1",
+      "version": "2.5.1",
+      "source": "registry"
+    },
+    "com.unity.rendering.light-transport@1.0.1": {
+      "name": "com.unity.rendering.light-transport",
+      "resolvedPath": "C:\\Users\\danie\\Documents\\UnityWorkspace\\RTXInstancing\\Library\\PackageCache\\com.unity.rendering.light-transport",
+      "fingerprint": "307bc27a498fc9cd409bbd426c85d8dc7f140bc1",
+      "editorCompatibility": "2023.3.0b1",
+      "version": "1.0.1",
+      "source": "builtin"
+    },
+    "com.unity.settings-manager@2.0.1": {
+      "name": "com.unity.settings-manager",
+      "resolvedPath": "C:\\Users\\danie\\Documents\\UnityWorkspace\\RTXInstancing\\Library\\PackageCache\\com.unity.settings-manager",
+      "fingerprint": "56a930affa1e4462d3595b5c19a1c2a4bf2015d2",
+      "editorCompatibility": "2018.4.0a1",
+      "version": "2.0.1",
+      "source": "registry"
+    },
+    "com.unity.ext.nunit@2.0.5": {
+      "name": "com.unity.ext.nunit",
+      "resolvedPath": "C:\\Users\\danie\\Documents\\UnityWorkspace\\RTXInstancing\\Library\\PackageCache\\com.unity.ext.nunit",
+      "fingerprint": "60ef35ffd3cd5e2f5c8887a4a4ca6148854cd092",
+      "editorCompatibility": "2019.4.0a1",
+      "version": "2.0.5",
+      "source": "registry"
+    },
+    "com.unity.nuget.mono-cecil@1.11.4": {
+      "name": "com.unity.nuget.mono-cecil",
+      "resolvedPath": "C:\\Users\\danie\\Documents\\UnityWorkspace\\RTXInstancing\\Library\\PackageCache\\com.unity.nuget.mono-cecil",
+      "fingerprint": "d6f9955a5d5f84d45442ff1ad0fb694cc6e2fd62",
+      "editorCompatibility": "2018.4.0a1",
+      "version": "1.11.4",
+      "source": "registry"
+    },
+    "com.unity.test-framework.performance@3.0.3": {
+      "name": "com.unity.test-framework.performance",
+      "resolvedPath": "C:\\Users\\danie\\Documents\\UnityWorkspace\\RTXInstancing\\Library\\PackageCache\\com.unity.test-framework.performance",
+      "fingerprint": "fb0dc592af8b524f1a06c50d7caf95552f1bcd2f",
+      "editorCompatibility": "2020.3.0a1",
+      "version": "3.0.3",
+      "source": "registry"
+    }
+  }
+}

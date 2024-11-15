@@ -13,6 +13,7 @@ Both examples manually handle RayTracingAccelerationStructure in order to be abl
 HDRP only. Let me know if it helped you in any way. I found reading trough examples and documentation quite cumbersome so I hope this example helps someone! 
 
 References: 
+
 https://github.com/INedelcu/RayTracingMeshInstancingHDRP
 
 https://www.shadertoy.com/new

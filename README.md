@@ -4,7 +4,7 @@ Instancing doesn't work out of the box with RayTracing in Unity so you need to m
 
 **NOTE:** this example requires **Unity 6.1 Alpha**.
 
-###Example 1:
+## Example 1:
 Simple example using `Graphics.RenderMeshInstanced` and `RayTracingAccelerationStructure.AddInstances` to add it to the RayTracing acceleration structure.
 
 ## Example 2: 

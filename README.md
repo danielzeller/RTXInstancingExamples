@@ -2,17 +2,17 @@
 
 Instancing doesn't work out of the box with RayTracing in Unity so you need to manually add it to the RayTracingAccelerationStructure.
 
-**NOTE:** this example requires **Unity 6.1 Alpha**.
+**NOTE:** this example requires **Unity 6.1 Alpha** and used HDRP.
 
 ## Example 1:
 Simple example using `Graphics.RenderMeshInstanced` and `RayTracingAccelerationStructure.AddInstances` to add it to the RayTracing acceleration structure.
 
 ## Example 2: 
-Same thing only with `Graphica.RenderMeshIndirect` and `RayTracingAccelerationStructure.AddInstancesIndirect`. This example animates some spheres using a Compute Shader.
+Same thing only with `Graphics.RenderMeshIndirect` and `RayTracingAccelerationStructure.AddInstancesIndirect`. This example animates some spheres using a Compute Shader.
 
 Both examples manually handle RayTracingAccelerationStructure in order to be able to add the instances. To do so you need to add a Volume with RayTracingSettings and `AccelerationStructure = Manual`.
 
-HDRP only. Let me know if it helped you in any way, I found reading trough examples and documentation quite cumbersome so I hope this example helps someone! 
+Let me know if it helped you in any way, I found reading trough examples and documentation quite cumbersome so I hope this example helps someone! 
 
 ## References: 
 

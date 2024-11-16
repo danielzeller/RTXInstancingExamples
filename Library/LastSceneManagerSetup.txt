@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/RenderMeshInstancedExample/RenderMeshInstanced.unity
+- path: Assets/RenderMeshIndirect/RenderMeshInstancedIndirect.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
